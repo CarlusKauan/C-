@@ -23,6 +23,6 @@
 
 <a href="/HelloWorld" target="_blank">Hello World</a>
 <br />
-<a href="/SchoolAverage" target="_blank">School Average</a>
+<a href="/AverageExercises" target="_blank">School Average</a>
 
 
