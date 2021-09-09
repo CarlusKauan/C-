@@ -22,4 +22,7 @@
 ### Lista de Projetos [ Project List ] 
 
 <a href="/HelloWorld" target="_blank">Hello World</a>
+<br />
+<a href="/SchoolAverage" target="_blank">School Average</a>
+
 
