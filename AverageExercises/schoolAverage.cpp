@@ -1,6 +1,6 @@
 /*
- Escreva um programa que leia 3 notas de um aluno e a média das notas dos exercícios realizados por ele.
- Calcular a média de aproveitamento, usando a fórmula: MA = (N1 + N2*2 + N3*3 + ME)/7. A partir da média, informar o conceito de acordo com a tabela: 
+ Escreva um programa que leia 3 notas de um aluno e a mï¿½dia das notas dos exercï¿½cios realizados por ele.
+ Calcular a mï¿½dia de aproveitamento, usando a fï¿½rmula: MA = (N1 + N2*2 + N3*3 + ME)/7. A partir da mï¿½dia, informar o conceito de acordo com a tabela: 
 */
 #include <stdio.h>
 #include <stdlib.h>
@@ -8,8 +8,7 @@
 
 int main(){
 	
-	setlocale(LC_ALL, "portuguese");
-	
+	setlocale(LC_ALL,"portuguese");
 	
 	printf("MÉDIA DOS EXERCÍCIOS [PT] \n");
 	
