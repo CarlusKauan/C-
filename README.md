@@ -21,8 +21,10 @@
 
 ### Lista de Projetos [ Project List ] 
 
-<a href="/HelloWorld" target="_blank">Hello World</a>
+<a href="/HelloWorld" target="_blank">Hello World [EN] - Ola mundo [PT]</a>
 <br />
-<a href="/AverageExercises" target="_blank">School Average</a>
+<a href="/AverageExercises" target="_blank">School Average [EN] - Média Escolar [PT]</a>
+<br />
+<a href="/Convert" target="_blank">Convert Meters [EN] - Convertendo metros [PT]</a>
 
 
