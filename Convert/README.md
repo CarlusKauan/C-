@@ -1,10 +1,10 @@
 # Convert Meters in C++
 <p>
-  Convert Meters 
+  Convert Meters [EN]
 </p>
 
 <p>
-  Conversor de metros
+  Conversor de metros [PT]
 </p>
 
 ### Linguagens usadas [ Languages used ]
