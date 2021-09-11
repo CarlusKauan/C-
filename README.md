@@ -26,5 +26,7 @@
 <a href="/AverageExercises" target="_blank">School Average [EN] - Média Escolar [PT]</a>
 <br />
 <a href="/Convert" target="_blank">Convert Meters [EN] - Convertendo metros [PT]</a>
+<br />
+<a href="/Fahrenheit&Celsius" target="_blank">Fahrenheit And Celsius [EN] - Fahrenheit e Celsius [PT]</a>
 
 
