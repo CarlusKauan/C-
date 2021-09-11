@@ -1,7 +1,7 @@
 /*
 
 Fazer  um  programa  em  C  que  pergunta  um  valor  em  metros  e  imprime  o
-correspondente em decímetros, centímetros e milímetros.
+correspondente em decï¿½metros, centï¿½metros e milï¿½metros.
 
 */
 
@@ -20,17 +20,17 @@ int main(){
 	printf(" Digite o valor ?");
 	scanf("%f" ,&vlr);
 	
-	//Valor em decímetros
+	//Valor em decï¿½metros
 	vld = vlr * 10;
-	//Valor em centímetros
+	//Valor em centï¿½metros
 	vlc = vld * 10;
-	//Valor em milímetros
+	//Valor em milï¿½metros
 	vlm = vlc * 10;
 	
 	printf(" Valor digitado em [m] : %.0f \n" ,vlr);
-	printf(" Valor em decímetros [dm] : %.0f\n" ,vld);
-	printf(" Valor em centímetros [cm] : %.0f\n", vlc);
-	printf(" Valor em milímetros [mm] : %.0f\n\n" ,vlm);
+	printf(" Valor em decï¿½metros [dm] : %.0f\n" ,vld);
+	printf(" Valor em centï¿½metros [cm] : %.0f\n", vlc);
+	printf(" Valor em milï¿½metros [mm] : %.0f\n\n" ,vlm);
 	
 	system("pause");
 	
