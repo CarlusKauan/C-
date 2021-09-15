@@ -1,6 +1,8 @@
 # Fahrenheit and Celsius
 
-<p>Fahrenheit and Celsius</p>
+<p>Fahrenheit e Celsius [PT]</p>
+
+<p>Fahrenheit and Celsius [EN]</p>
 
 ### Linguagens usadas [ Languages used ]
 
