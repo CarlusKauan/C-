@@ -28,5 +28,7 @@
 <a href="/Convert" target="_blank">Convert Meters [EN] - Convertendo metros [PT]</a>
 <br />
 <a href="/Fahrenheit&Celsius" target="_blank">Fahrenheit And Celsius [EN] - Fahrenheit e Celsius [PT]</a>
+<br />
+<a href="/TimesTables" target="_blank">Times Tables [EN] - Tabuada [PT]</a>
 
 
