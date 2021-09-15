@@ -1,4 +1,4 @@
-# TimesTables
+# TimesTables in C++
 
 <P>Tabuada [PT]</p>
 <p>TimesTables [EN]</p>
