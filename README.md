@@ -31,6 +31,8 @@
 <br />
 <a href="/BodyMassIndex" target="_blank">Body Mass Index [EN] - Índice de massa corporal [PT]</a>
 <br />
-<a href="/TimesTables" target="_blank">Times Tables [EN] - Tabuada [PT]</a>
-<br />
 <a href="/OutputCounter" target="_blank">Output Counter [EN] - Contador de saídas</a> 
+<br />
+<a href="/TimesTables" target="_blank">Times Tables [EN] - Tabuada [PT]</a>
+
+
