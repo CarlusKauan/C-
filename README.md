@@ -34,5 +34,9 @@
 <a href="/OutputCounter" target="_blank">Output Counter [EN] - Contador de saídas</a> 
 <br />
 <a href="/TimesTables" target="_blank">Times Tables [EN] - Tabuada [PT]</a>
+<br />
+<a href="/Printing graphic characters" target="_blank">Printing graphic characters [EN] - Imprimindo caracteres Gráficos [PT]</a>
+<br />
+
 
 
